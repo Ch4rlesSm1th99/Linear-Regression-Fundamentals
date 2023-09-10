@@ -1,5 +1,6 @@
 # Linear-Regression-Fundamentals
 An explanation of the most fundamental underlying steps for implementing any kind of linear regression model on a set of data. Here is a methodical explanation of the script.
+
 '''
 Linear Regression 1 (1 feature : 1 label and linear fit)
 
